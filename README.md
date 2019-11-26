@@ -1,6 +1,8 @@
 # Yu-Shuo-Nick-Movies_ETL
 ## Python file uploaded 
 ## file loaded
+
+## python output from the code
 wiki movies data frame created
 Wiki movies null valued cleaned
 wiki data cleaning completion
