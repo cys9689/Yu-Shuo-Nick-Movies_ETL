@@ -9,7 +9,7 @@ Files transformed
 Record Deleted successfully
 Record Deleted successfully
 Data deleted, Table kept
-3' importing rows 0 to 1000000...Done.90.10401678085327 total seconds elapsed
+importing rows 0 to 1000000...Done.90.10401678085327 total seconds elapsed
 importing rows 1000000 to 2000000...Done.179.36854577064514 total seconds elapsed
 importing rows 2000000 to 3000000...Done.268.8382489681244 total seconds elapsed
 importing rows 3000000 to 4000000...Done.357.9240367412567 total seconds elapsed
@@ -36,4 +36,4 @@ importing rows 23000000 to 24000000...Done.2178.8298308849335 total seconds elap
 importing rows 24000000 to 25000000...Done.2269.363883972168 total seconds elapsed
 importing rows 25000000 to 26000000...Done.2360.548500776291 total seconds elapsed
 importing rows 26000000 to 26024289...Done.2362.70587682724 total seconds elapsed
-file has updated 3'
+file has updated 
